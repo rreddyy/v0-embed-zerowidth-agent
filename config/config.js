@@ -21,9 +21,9 @@ const chatConfig = {
   },
   suggestedPromptsTitle: "Here are some suggested prompts.",
   suggestedPrompts: [
-    "I spend too much time with computers.",
-    "I feel overwhelmed trying to keep up with AI trends.",
-    "I am anxious about the future.",
+    "Give me a brief overview of her experience so far",
+    "What are Rithvika's strengths as a designer?",
+    "What excites her the most about UX right now?",
   ],
   chatInputPlaceholder: "Chat with this agent...",
   maxChatHeight: 200,
