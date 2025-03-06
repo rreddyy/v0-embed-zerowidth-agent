@@ -25,7 +25,7 @@ const chatConfig = {
     "What are Rithvika's strengths as a designer?",
     "What excites her the most about UX right now?",
   ],
-  chatInputPlaceholder: "Chat with this agent...",
+  chatInputPlaceholder: "Ask me anything",
   maxChatHeight: 200,
 };
 
