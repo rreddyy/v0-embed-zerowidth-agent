@@ -26,7 +26,7 @@ const chatConfig = {
     "What excites her the most about UX right now?",
   ],
   chatInputPlaceholder: "Ask me anything",
-  maxChatHeight: 200,
+  maxChatHeight: 400,
 };
 
 export default chatConfig;
