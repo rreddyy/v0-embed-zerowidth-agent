@@ -15,9 +15,9 @@ const chatConfig = {
   flowURL:
     "https://api.zerowidth.ai/beta/process/qFqA9s2hBRoabFli3QEn/zD0GGGFVL4VAyAXX2g80",
   header: {
-    title: "Chat with ELIZA",
+    title: "Chat with Mini-me",
     description:
-      "Greetings, I am a draft clone of ELIZA running the DOCTOR script. HOW DO YOU DO. PLEASE STATE YOUR PROBLEM.",
+      "Greetings, I am a draft clone of Rithvika. I can tell you about her design career, ask away!",
   },
   suggestedPromptsTitle: "Here are some suggested prompts.",
   suggestedPrompts: [
